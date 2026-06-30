@@ -1,0 +1,23 @@
+# Folders
+wheelhouse/
+sample images/
+runs/
+venv/
+.env/
+__pycache__/
+
+# Python cache
+*.pyc
+*.rar
+
+# Datasets
+*.tif
+*.tiff
+*.whl
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
