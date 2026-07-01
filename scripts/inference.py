@@ -6,7 +6,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-MODEL_PATH = BASE_DIR / "runs" / "detect" / "airport_detection_v3-3" / "weights" / "best.pt"
+MODEL_PATH = BASE_DIR / "models" / "best.pt"
 
 # ==========================================================
 # MODELS
